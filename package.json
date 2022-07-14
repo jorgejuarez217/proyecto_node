@@ -20,5 +20,13 @@
     "socket.io": "^4.5.1",
     "sqlite3": "^5.0.8"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgejuarez217/proyecto_node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jorgejuarez217/proyecto_node/issues"
+  },
+  "homepage": "https://github.com/jorgejuarez217/proyecto_node#readme",
   "description": ""
 }
